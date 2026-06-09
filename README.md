@@ -88,13 +88,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NoNickname69&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="Trophies" />
-</p>
-
----
 
 ## ✍️ Random Dev Quote
 
