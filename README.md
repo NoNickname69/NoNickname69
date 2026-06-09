@@ -12,9 +12,9 @@
 - 🎓 Electronics & Communication Engineering student at **GB Pant**
 - 🔭 Currently working on **AI/ML projects & real-time computer vision systems**
 - 🤖 Passionate about **AI, Machine Learning, and building smart systems**
-- 🛠️ Love turning ideas into working projects — from safety systems to automation
+- 🛠️ Love turning ideas into working projects, all the way from safety systems to automation
 - 🌱 Always learning and exploring new technologies
-- ⚡ Fun fact: I go by **NoNickname69** but I always have a name for my projects
+- ⚡ Fun fact: Apples are not native to India!
 
 ---
 
